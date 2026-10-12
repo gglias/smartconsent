@@ -26,12 +26,12 @@ msgstr ""
 
 #. Author of the plugin
 #: smartconsent.php
-msgid "Smartup"
+msgid "GG"
 msgstr ""
 
 #. Author URI of the plugin
 #: smartconsent.php
-msgid "https://smartupweb.com"
+msgid "https://gglias.github.io"
 msgstr ""
 
 #: includes/admin-i18n.php:11

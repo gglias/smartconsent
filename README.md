@@ -52,4 +52,4 @@ Or clone this repository into `wp-content/plugins/smartconsent`.
 
 [GPL-2.0-or-later](LICENSE).
 
-Made by [Greg Glias](https://gglias.github.io) at [Smartup](https://smartupweb.com).
+Made by **GG** · [Greg Glias](https://gglias.github.io)

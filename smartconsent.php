@@ -3,8 +3,8 @@
  * Plugin Name:       SmartConsent
  * Description:       Cookie consent banner with Google Consent Mode v2. Third-party scripts wait for the visitor's consent, the cookie policy table fills itself, and every choice is logged anonymously. WPML ready.
  * Version:           1.0.2
- * Author:            Smartup
- * Author URI:        https://smartupweb.com
+ * Author:            GG
+ * Author URI:        https://gglias.github.io
  * Plugin URI:        https://github.com/gglias/smartconsent
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
@@ -12,7 +12,7 @@
  * Domain Path:       /languages
  * Requires at least: 6.1
  * Requires PHP:      7.4
- * Update URI:        https://smartupweb.com/plugins/smartconsent
+ * Update URI:        https://github.com/gglias/smartconsent
  */
 
 defined( 'ABSPATH' ) || exit;

@@ -1,0 +1,1324 @@
+# Copyright (C) 2026 Smartup
+# This file is distributed under the same license as the SmartConsent plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: SmartConsent 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/smartconsent\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-09-28T20:51:34+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: smartconsent\n"
+
+#. Plugin Name of the plugin
+#: smartconsent.php
+msgid "SmartConsent"
+msgstr ""
+
+#. Description of the plugin
+#: smartconsent.php
+msgid "Cookie consent banner with Google Consent Mode v2. Third-party scripts wait for the visitor's consent, the cookie policy table fills itself, and every choice is logged anonymously. WPML ready."
+msgstr ""
+
+#. Author of the plugin
+#: smartconsent.php
+msgid "Smartup"
+msgstr ""
+
+#. Author URI of the plugin
+#: smartconsent.php
+msgid "https://smartupweb.com"
+msgstr ""
+
+#: includes/admin-i18n.php:11
+msgid "Screen language"
+msgstr ""
+
+#: includes/admin-i18n.php:12
+msgid "General"
+msgstr ""
+
+#: includes/admin-i18n.php:13
+msgid "Setup"
+msgstr ""
+
+#: includes/admin-i18n.php:14
+msgid "Needs your attention"
+msgstr ""
+
+#: includes/admin-i18n.php:15
+msgid "Overview"
+msgstr ""
+
+#: includes/admin-i18n.php:16
+#: includes/admin-i18n.php:368
+msgid "Consent log"
+msgstr ""
+
+#: includes/admin-i18n.php:17
+msgid "Services & scripts"
+msgstr ""
+
+#: includes/admin-i18n.php:18
+msgid "Cookies"
+msgstr ""
+
+#: includes/admin-i18n.php:19
+msgid "Texts"
+msgstr ""
+
+#: includes/admin-i18n.php:20
+msgid "Appearance"
+msgstr ""
+
+#: includes/admin-i18n.php:21
+msgid "Policy page"
+msgstr ""
+
+#: includes/admin-i18n.php:22
+#: includes/admin.php:49
+msgid "Settings"
+msgstr ""
+
+#: includes/admin-i18n.php:23
+msgid "Save"
+msgstr ""
+
+#: includes/admin-i18n.php:24
+msgid "Saving…"
+msgstr ""
+
+#: includes/admin-i18n.php:25
+msgid "Settings saved."
+msgstr ""
+
+#. translators: %s: names of caching plugins
+#: includes/admin-i18n.php:27
+#, php-format
+msgid "Settings saved. Page cache cleared: %s."
+msgstr ""
+
+#. translators: %s: names of caching plugins
+#: includes/admin-i18n.php:29
+#, php-format
+msgid "Page cache cleared: %s."
+msgstr ""
+
+#: includes/admin-i18n.php:30
+msgid "Unsaved changes"
+msgstr ""
+
+#: includes/admin-i18n.php:31
+msgid "All changes saved"
+msgstr ""
+
+#: includes/admin-i18n.php:32
+msgid "Save your changes first."
+msgstr ""
+
+#: includes/admin-i18n.php:33
+msgid "You have unsaved changes. Switch the screen language anyway?"
+msgstr ""
+
+#: includes/admin-i18n.php:34
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+#: includes/admin-i18n.php:35
+msgid "Loading…"
+msgstr ""
+
+#: includes/admin-i18n.php:36
+msgid "Copy"
+msgstr ""
+
+#. translators: %s: copied text
+#: includes/admin-i18n.php:38
+#, php-format
+msgid "Copied: %s"
+msgstr ""
+
+#: includes/admin-i18n.php:39
+msgid "Delete"
+msgstr ""
+
+#: includes/admin-i18n.php:40
+#: includes/admin-i18n.php:340
+msgid "Edit"
+msgstr ""
+
+#: includes/admin-i18n.php:41
+msgid "Done"
+msgstr ""
+
+#: includes/admin-i18n.php:42
+msgid "All"
+msgstr ""
+
+#: includes/admin-i18n.php:43
+msgid "Previous"
+msgstr ""
+
+#: includes/admin-i18n.php:44
+msgid "Next"
+msgstr ""
+
+#. translators: 1: current page, 2: number of pages
+#: includes/admin-i18n.php:46
+#, php-format
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+#: includes/admin-i18n.php:47
+msgid "Preview"
+msgstr ""
+
+#: includes/admin-i18n.php:48
+msgid "Category"
+msgstr ""
+
+#: includes/admin-i18n.php:49
+#: includes/admin-i18n.php:279
+#: includes/admin.php:289
+msgid "Categories"
+msgstr ""
+
+#: includes/admin-i18n.php:50
+msgid "Necessary"
+msgstr ""
+
+#: includes/admin-i18n.php:51
+#: includes/admin-i18n.php:277
+msgid "Preferences"
+msgstr ""
+
+#: includes/admin-i18n.php:52
+#: includes/admin-i18n.php:275
+msgid "Statistics"
+msgstr ""
+
+#: includes/admin-i18n.php:53
+#: includes/admin-i18n.php:276
+msgid "Marketing"
+msgstr ""
+
+#: includes/admin-i18n.php:54
+#: includes/admin-i18n.php:70
+#: includes/admin.php:283
+msgid "Accept all"
+msgstr ""
+
+#: includes/admin-i18n.php:55
+#: includes/admin-i18n.php:71
+#: includes/admin.php:283
+msgid "Reject"
+msgstr ""
+
+#: includes/admin-i18n.php:56
+#: includes/admin-i18n.php:72
+#: includes/admin.php:283
+msgid "Custom"
+msgstr ""
+
+#: includes/admin-i18n.php:57
+#: includes/admin-i18n.php:131
+#: includes/admin.php:283
+msgid "Global Privacy Control"
+msgstr ""
+
+#: includes/admin-i18n.php:60
+msgid "How consent is going on the site, and what still needs setting up."
+msgstr ""
+
+#: includes/admin-i18n.php:61
+msgid "Preview on the site"
+msgstr ""
+
+#: includes/admin-i18n.php:62
+msgid "Banner on"
+msgstr ""
+
+#: includes/admin-i18n.php:63
+msgid "The banner is on"
+msgstr ""
+
+#: includes/admin-i18n.php:64
+msgid "The banner is off"
+msgstr ""
+
+#: includes/admin-i18n.php:65
+msgid "Visitors who haven't answered see it. Tags load only after consent."
+msgstr ""
+
+#: includes/admin-i18n.php:66
+msgid "Nobody sees a banner and SmartConsent loads and holds back nothing. Use “Preview on the site” to try it out first."
+msgstr ""
+
+#: includes/admin-i18n.php:67
+msgid "The banner is on."
+msgstr ""
+
+#: includes/admin-i18n.php:68
+msgid "The banner is off."
+msgstr ""
+
+#: includes/admin-i18n.php:69
+msgid "Answers, 30 days"
+msgstr ""
+
+#: includes/admin-i18n.php:73
+msgid "Setup check"
+msgstr ""
+
+#: includes/admin-i18n.php:74
+msgid "What SmartConsent sees on the site right now"
+msgstr ""
+
+#. translators: %s: tag ID, e.g. GTM-XXXXXXX
+#: includes/admin-i18n.php:76
+#, php-format
+msgid "Google tag: %s"
+msgstr ""
+
+#: includes/admin-i18n.php:77
+msgid "Loads only after consent (basic). Google Consent Mode v2 is on."
+msgstr ""
+
+#: includes/admin-i18n.php:78
+msgid "Loads at once and stays without cookies until consent (advanced). Google Consent Mode v2 is on."
+msgstr ""
+
+#: includes/admin-i18n.php:79
+msgid "No Google tag set up"
+msgstr ""
+
+#: includes/admin-i18n.php:80
+msgid "Enter your GTM-… or G-… ID and SmartConsent loads Google Analytics after consent."
+msgstr ""
+
+#: includes/admin-i18n.php:81
+msgid "Set it up"
+msgstr ""
+
+#: includes/admin-i18n.php:82
+msgid "Checking the home page…"
+msgstr ""
+
+#: includes/admin-i18n.php:83
+msgid "Could not check the home page"
+msgstr ""
+
+#: includes/admin-i18n.php:84
+msgid "The server could not load its own home page. The site scan (in Services & scripts) checks from your browser instead."
+msgstr ""
+
+#: includes/admin-i18n.php:85
+msgid "Check again"
+msgstr ""
+
+#. translators: %s: service names, e.g. Google Tag Manager
+#: includes/admin-i18n.php:87
+#, php-format
+msgid "Found outside SmartConsent: %s"
+msgstr ""
+
+#: includes/admin-i18n.php:88
+msgid "It is put on the page by something else (Site Kit, the theme's code box, another plugin). SmartConsent holds it back until consent, but after consent it would count every visit twice. Remove it from there."
+msgstr ""
+
+#: includes/admin-i18n.php:89
+msgid "It is put on the page by something else and loads without consent, because holding back scripts is switched off in Settings."
+msgstr ""
+
+#: includes/admin-i18n.php:90
+msgid "“Cookies” link found"
+msgstr ""
+
+#: includes/admin-i18n.php:91
+msgid "Visitors can change their choice from the home page."
+msgstr ""
+
+#: includes/admin-i18n.php:92
+msgid "No “Cookies” link on the home page"
+msgstr ""
+
+#: includes/admin-i18n.php:93
+msgid "Visitors must be able to change their choice. Put the shortcode in the footer, or a menu link to #smartconsent."
+msgstr ""
+
+#: includes/admin-i18n.php:94
+msgid "Copy the shortcode"
+msgstr ""
+
+#: includes/admin-i18n.php:95
+msgid "Copy #smartconsent"
+msgstr ""
+
+#. translators: %s: language names
+#: includes/admin-i18n.php:97
+#, php-format
+msgid "Found on the home page in: %s."
+msgstr ""
+
+#. translators: %s: language names
+#: includes/admin-i18n.php:99
+#, php-format
+msgid "No “Cookies” link on the home page in: %s"
+msgstr ""
+
+#. translators: %s: language names
+#: includes/admin-i18n.php:101
+#, php-format
+msgid "It is there in: %s, so the footer of the other language is probably a separate one."
+msgstr ""
+
+#. translators: %s: language names
+#: includes/admin-i18n.php:103
+#, php-format
+msgid "The shortcode shows as plain text (%s)"
+msgstr ""
+
+#: includes/admin-i18n.php:104
+msgid "The field where it was put doesn't run shortcodes, so visitors see “[smartconsent]”. Use a text or shortcode widget, or a link to #smartconsent (e.g. a menu link)."
+msgstr ""
+
+#: includes/admin-i18n.php:105
+msgid "Could not check for the “Cookies” link"
+msgstr ""
+
+#. translators: %s: language names
+#: includes/admin-i18n.php:107
+#, php-format
+msgid "Could not load the home page in: %s"
+msgstr ""
+
+#: includes/admin-i18n.php:108
+msgid "Visitors don't get the normal page"
+msgstr ""
+
+#: includes/admin-i18n.php:109
+msgid "Seen as a visitor, the home page has no SmartConsent in it. Usually a “Coming soon” or maintenance screen (common on staging sites). Nothing to do on staging; on the live site that screen must be off."
+msgstr ""
+
+#: includes/admin-i18n.php:110
+msgid "Cookie policy page"
+msgstr ""
+
+#: includes/admin-i18n.php:111
+msgid "Published, with the cookie table inside. The banner links to it."
+msgstr ""
+
+#: includes/admin-i18n.php:112
+msgid "No published cookie policy page"
+msgstr ""
+
+#: includes/admin-i18n.php:113
+msgid "The banner links to it. SmartConsent creates it for you in every language."
+msgstr ""
+
+#: includes/admin-i18n.php:114
+msgid "Create it now"
+msgstr ""
+
+#: includes/admin-i18n.php:115
+msgid "Open the page settings"
+msgstr ""
+
+#. translators: %s: cookie names
+#: includes/admin-i18n.php:117
+#, php-format
+msgid "Cookies before consent: %s"
+msgstr ""
+
+#: includes/admin-i18n.php:118
+msgid "The last scan found cookies that are not necessary, written before the visitor answered."
+msgstr ""
+
+#: includes/admin-i18n.php:119
+msgid "See the scan"
+msgstr ""
+
+#: includes/admin-i18n.php:120
+msgid "Last scan: nothing written before consent"
+msgstr ""
+
+#. translators: 1: date and time, 2: number of pages
+#: includes/admin-i18n.php:122
+#, php-format
+msgid "%1$s, %2$s pages."
+msgstr ""
+
+#: includes/admin-i18n.php:123
+msgid "The site has not been scanned yet"
+msgstr ""
+
+#: includes/admin-i18n.php:124
+msgid "The scan opens pages of the site and checks what they store before and after consent."
+msgstr ""
+
+#: includes/admin-i18n.php:125
+msgid "Scan now"
+msgstr ""
+
+#: includes/admin-i18n.php:126
+msgid "A page was too large to check for tags"
+msgstr ""
+
+#. translators: 1: date and time, 2: technical error
+#: includes/admin-i18n.php:128
+#, php-format
+msgid "On %1$s a page reached the server's limits while its scripts were being checked, and was sent unchanged (%2$s). If it keeps happening, tell your developer."
+msgstr ""
+
+#: includes/admin-i18n.php:129
+msgid "Nothing needs consent right now"
+msgstr ""
+
+#: includes/admin-i18n.php:130
+msgid "The site only uses necessary cookies, so the banner is not shown. It appears by itself as soon as a service that needs consent is added. The “Cookies” link still works."
+msgstr ""
+
+#: includes/admin-i18n.php:132
+msgid "Browsers that send it count as “Reject”."
+msgstr ""
+
+#: includes/admin-i18n.php:133
+msgid "Global Privacy Control is ignored"
+msgstr ""
+
+#: includes/admin-i18n.php:134
+msgid "Twelve US states require it to be respected. It can be switched on in Settings."
+msgstr ""
+
+#: includes/admin-i18n.php:135
+msgid "Answers by language"
+msgstr ""
+
+#: includes/admin-i18n.php:136
+msgid "Last 30 days"
+msgstr ""
+
+#. translators: %s: number of answers
+#: includes/admin-i18n.php:138
+#, php-format
+msgid "%s answers"
+msgstr ""
+
+#: includes/admin-i18n.php:139
+msgid "No answers yet."
+msgstr ""
+
+#: includes/admin-i18n.php:140
+#: includes/admin-i18n.php:142
+msgid "Ask everyone again"
+msgstr ""
+
+#: includes/admin-i18n.php:141
+msgid "For when you add a service or the policy changes. Every visitor sees the banner again, and the page cache is cleared."
+msgstr ""
+
+#: includes/admin-i18n.php:143
+msgid "Sure? Ask everyone again"
+msgstr ""
+
+#: includes/admin-i18n.php:144
+msgid "Every visitor will see the banner again."
+msgstr ""
+
+#. translators: %s: revision number
+#: includes/admin-i18n.php:146
+#, php-format
+msgid "Banner revision: v%s"
+msgstr ""
+
+#. translators: %s: number of months
+#: includes/admin-i18n.php:150
+#, php-format
+msgid "Anonymous proof of every choice: no IP address and nothing that identifies the visitor. Each row is deleted after %s months."
+msgstr ""
+
+#: includes/admin-i18n.php:151
+msgid "Export CSV"
+msgstr ""
+
+#: includes/admin-i18n.php:152
+msgid "Search by consent ID"
+msgstr ""
+
+#: includes/admin-i18n.php:153
+#: includes/admin.php:289
+msgid "Date"
+msgstr ""
+
+#: includes/admin-i18n.php:154
+#: includes/admin.php:289
+msgid "Consent ID"
+msgstr ""
+
+#: includes/admin-i18n.php:155
+#: includes/admin.php:289
+msgid "Language"
+msgstr ""
+
+#: includes/admin-i18n.php:156
+#: includes/admin.php:289
+msgid "Choice"
+msgstr ""
+
+#: includes/admin-i18n.php:157
+#: includes/admin.php:289
+msgid "Banner revision"
+msgstr ""
+
+#: includes/admin-i18n.php:158
+msgid "No choices logged yet."
+msgstr ""
+
+#: includes/admin-i18n.php:159
+msgid "A visitor who asks for proof finds their consent ID in the banner's Preferences. Search for it here."
+msgstr ""
+
+#: includes/admin-i18n.php:162
+msgid "Everything that loads from other companies goes through here. Anything outside “Necessary” waits for the visitor's consent."
+msgstr ""
+
+#: includes/admin-i18n.php:163
+msgid "Add a service"
+msgstr ""
+
+#: includes/admin-i18n.php:164
+msgid "Service library"
+msgstr ""
+
+#: includes/admin-i18n.php:165
+msgid "Pick one: its cookies, their descriptions in every language and the right way to hold it back come with it."
+msgstr ""
+
+#: includes/admin-i18n.php:166
+msgid "My own script"
+msgstr ""
+
+#: includes/admin-i18n.php:167
+msgid "Your own scripts"
+msgstr ""
+
+#: includes/admin-i18n.php:168
+msgid "Code that should run only after consent for its category."
+msgstr ""
+
+#: includes/admin-i18n.php:169
+msgid "Only users allowed to add raw HTML can add or change scripts."
+msgstr ""
+
+#: includes/admin-i18n.php:170
+msgid "Untitled script"
+msgstr ""
+
+#: includes/admin-i18n.php:171
+msgid "Name"
+msgstr ""
+
+#: includes/admin-i18n.php:172
+msgid "Where"
+msgstr ""
+
+#: includes/admin-i18n.php:173
+msgid "In <head>"
+msgstr ""
+
+#: includes/admin-i18n.php:174
+msgid "Before </body>"
+msgstr ""
+
+#: includes/admin-i18n.php:175
+msgid "Code"
+msgstr ""
+
+#: includes/admin-i18n.php:176
+msgid "Paste it as the service gives it, with its <script> tags. Nothing in it runs or loads before consent."
+msgstr ""
+
+#: includes/admin-i18n.php:177
+msgid "ID"
+msgstr ""
+
+#: includes/admin-i18n.php:178
+msgid "GTM-… for Tag Manager, or G-… for Google Analytics 4 on its own."
+msgstr ""
+
+#: includes/admin-i18n.php:179
+msgid "The Pixel ID, in Meta Events Manager."
+msgstr ""
+
+#: includes/admin-i18n.php:180
+msgid "The project ID, in Clarity's Settings → Overview."
+msgstr ""
+
+#: includes/admin-i18n.php:181
+msgid "The Site ID, in Hotjar's Sites & Organizations."
+msgstr ""
+
+#: includes/admin-i18n.php:182
+msgid "This doesn't look like a valid ID."
+msgstr ""
+
+#: includes/admin-i18n.php:183
+msgid "Enter the ID first."
+msgstr ""
+
+#: includes/admin-i18n.php:184
+msgid "When it loads"
+msgstr ""
+
+#: includes/admin-i18n.php:185
+msgid "Basic (recommended)"
+msgstr ""
+
+#: includes/admin-i18n.php:186
+msgid "Nothing loads before consent. Safe in the EU."
+msgstr ""
+
+#: includes/admin-i18n.php:187
+msgid "Advanced"
+msgstr ""
+
+#: includes/admin-i18n.php:188
+msgid "Loads at once and sends pings without cookies. Contested in the EU."
+msgstr ""
+
+#: includes/admin-i18n.php:189
+msgid "With advanced, Google also receives data from visitors who rejected cookies, just without cookies. Several EU authorities consider that unlawful without consent."
+msgstr ""
+
+#: includes/admin-i18n.php:190
+msgid "Found automatically"
+msgstr ""
+
+#: includes/admin-i18n.php:191
+#: includes/admin-i18n.php:243
+msgid "Added by hand"
+msgstr ""
+
+#: includes/admin-i18n.php:192
+msgid "No cookies"
+msgstr ""
+
+#: includes/admin-i18n.php:193
+msgid "Scan the site"
+msgstr ""
+
+#: includes/admin-i18n.php:194
+msgid "Scanning…"
+msgstr ""
+
+#: includes/admin-i18n.php:195
+msgid "Scan in progress"
+msgstr ""
+
+#. translators: 1: current page, 2: total, 3: pass name
+#: includes/admin-i18n.php:197
+#, php-format
+msgid "Page %1$s of %2$s · %3$s"
+msgstr ""
+
+#: includes/admin-i18n.php:198
+msgid "first pass: without consent"
+msgstr ""
+
+#: includes/admin-i18n.php:199
+msgid "second pass: with “Accept all”"
+msgstr ""
+
+#: includes/admin-i18n.php:200
+msgid "Keep this screen open until it finishes."
+msgstr ""
+
+#: includes/admin-i18n.php:201
+msgid "The scan has finished."
+msgstr ""
+
+#: includes/admin-i18n.php:202
+msgid "Scan result"
+msgstr ""
+
+#. translators: 1: number of pages, 2: date and time
+#: includes/admin-i18n.php:204
+#, php-format
+msgid "%1$s pages · two passes: without consent and with “Accept all” · %2$s"
+msgstr ""
+
+#: includes/admin-i18n.php:205
+msgid "Scan again"
+msgstr ""
+
+#. translators: %s: cookie names
+#: includes/admin-i18n.php:207
+#, php-format
+msgid "Written without consent: %s"
+msgstr ""
+
+#: includes/admin-i18n.php:208
+msgid "These are not necessary and appear before the visitor answers. Something on the site sets them without going through SmartConsent."
+msgstr ""
+
+#: includes/admin-i18n.php:209
+msgid "Without consent, nothing but necessary cookies is written"
+msgstr ""
+
+#. translators: %s: cookie names
+#: includes/admin-i18n.php:211
+#, php-format
+msgid "Only %s, which are in the table."
+msgstr ""
+
+#: includes/admin-i18n.php:212
+msgid "No cookies at all."
+msgstr ""
+
+#: includes/admin-i18n.php:213
+msgid "After consent, the expected cookies are written"
+msgstr ""
+
+#. translators: %s: service name
+#: includes/admin-i18n.php:215
+#, php-format
+msgid "%s loads from outside SmartConsent"
+msgstr ""
+
+#: includes/admin-i18n.php:216
+msgid "SmartConsent holds it back until consent, but after consent it would count every visit twice. Remove it from where it was added."
+msgstr ""
+
+#. translators: %s: host name
+#: includes/admin-i18n.php:218
+#, php-format
+msgid "Contact with %s before consent"
+msgstr ""
+
+#: includes/admin-i18n.php:219
+msgid "Google Fonts of the theme. No cookie, but the visitor's IP address goes to Google. Better to load the fonts from the site itself."
+msgstr ""
+
+#: includes/admin-i18n.php:220
+msgid "A WordPress service (emoji, avatars). No tracking cookies."
+msgstr ""
+
+#: includes/admin-i18n.php:221
+msgid "Cloudflare's security check (Turnstile). Necessary."
+msgstr ""
+
+#: includes/admin-i18n.php:222
+msgid "Another site contacted before consent. Check whether it stores or collects anything."
+msgstr ""
+
+#. translators: %s: cookie name
+#: includes/admin-i18n.php:224
+#, php-format
+msgid "Unknown cookie: %s"
+msgstr ""
+
+#: includes/admin-i18n.php:225
+msgid "It is written by the site but is not in the cookie table. Choose its category and add it with a description."
+msgstr ""
+
+#: includes/admin-i18n.php:226
+msgid "Add to the table"
+msgstr ""
+
+#: includes/admin-i18n.php:227
+msgid "Added. Write what it does, then save."
+msgstr ""
+
+#. translators: %s: number of pages
+#: includes/admin-i18n.php:229
+#, php-format
+msgid "%s pages could not be read"
+msgstr ""
+
+#: includes/admin-i18n.php:230
+msgid "They took too long or refused to open in a frame. The rest of the result stands."
+msgstr ""
+
+#: includes/admin-i18n.php:233
+msgid "The table visitors see on the cookie policy page. It fills itself from the services; change something only if you want to."
+msgstr ""
+
+#: includes/admin-i18n.php:234
+msgid "Add a cookie"
+msgstr ""
+
+#. translators: %s: number of cookies
+#: includes/admin-i18n.php:236
+#, php-format
+msgid "%s cookies"
+msgstr ""
+
+#: includes/admin-i18n.php:237
+msgid "Save to see the effect of other changes (services switched on or off) on the table."
+msgstr ""
+
+#: includes/admin-i18n.php:238
+msgid "Cookie"
+msgstr ""
+
+#: includes/admin-i18n.php:239
+msgid "Provider"
+msgstr ""
+
+#: includes/admin-i18n.php:240
+msgid "Purpose"
+msgstr ""
+
+#: includes/admin-i18n.php:241
+msgid "Duration"
+msgstr ""
+
+#: includes/admin-i18n.php:242
+msgid "Source"
+msgstr ""
+
+#: includes/admin-i18n.php:244
+msgid "edited"
+msgstr ""
+
+#: includes/admin-i18n.php:245
+msgid "no text in this language"
+msgstr ""
+
+#: includes/admin-i18n.php:246
+msgid "This site"
+msgstr ""
+
+#: includes/admin-i18n.php:247
+msgid "Cookie name"
+msgstr ""
+
+#: includes/admin-i18n.php:248
+msgid "Letters, digits, _ - . and * for “anything” (e.g. _hj*)."
+msgstr ""
+
+#. translators: %s: language name
+#: includes/admin-i18n.php:250
+#, php-format
+msgid "Purpose (%s)"
+msgstr ""
+
+#. translators: %s: language name
+#: includes/admin-i18n.php:252
+#, php-format
+msgid "Duration (%s)"
+msgstr ""
+
+#: includes/admin-i18n.php:253
+msgid "Back to the original text"
+msgstr ""
+
+#: includes/admin-i18n.php:254
+msgid "The original text returns when you save."
+msgstr ""
+
+#: includes/admin-i18n.php:255
+msgid "Saved with the Save button."
+msgstr ""
+
+#: includes/admin-i18n.php:256
+msgid "Visitors see this table on the cookie policy page, through"
+msgstr ""
+
+#: includes/admin-i18n.php:259
+msgid "Everything the visitor reads, per language. The language comes from WPML."
+msgstr ""
+
+#: includes/admin-i18n.php:260
+#: includes/admin-i18n.php:287
+msgid "Title"
+msgstr ""
+
+#: includes/admin-i18n.php:261
+#: includes/admin-i18n.php:291
+msgid "Text"
+msgstr ""
+
+#. translators: {purposes} is a placeholder shown as is
+#: includes/admin-i18n.php:263
+msgid "{purposes} becomes the purposes in use on the site, e.g. “for traffic statistics”. The link to the cookie policy is added at the end by itself."
+msgstr ""
+
+#: includes/admin-i18n.php:264
+msgid "“Preferences” button"
+msgstr ""
+
+#: includes/admin-i18n.php:265
+msgid "“Save choices” button"
+msgstr ""
+
+#: includes/admin-i18n.php:266
+msgid "“Reject” button"
+msgstr ""
+
+#: includes/admin-i18n.php:267
+msgid "“Accept” button"
+msgstr ""
+
+#: includes/admin-i18n.php:268
+msgid "Cookie policy link"
+msgstr ""
+
+#: includes/admin-i18n.php:269
+msgid "Footer link"
+msgstr ""
+
+#: includes/admin-i18n.php:270
+msgid "What [smartconsent] shows."
+msgstr ""
+
+#: includes/admin-i18n.php:271
+msgid "“Always active” label"
+msgstr ""
+
+#: includes/admin-i18n.php:272
+msgid "“Consent ID” label"
+msgstr ""
+
+#: includes/admin-i18n.php:273
+msgid "Purposes in the text"
+msgstr ""
+
+#: includes/admin-i18n.php:274
+msgid "What {purposes} in the text becomes. Only the purposes actually in use on the site are shown."
+msgstr ""
+
+#: includes/admin-i18n.php:278
+msgid "The word “and” between the last two"
+msgstr ""
+
+#. translators: %s: category name
+#: includes/admin-i18n.php:281
+#, php-format
+msgid "%s: name"
+msgstr ""
+
+#. translators: %s: category name
+#: includes/admin-i18n.php:283
+#, php-format
+msgid "%s: description"
+msgstr ""
+
+#: includes/admin-i18n.php:284
+msgid "Not shown now: nothing uses this category."
+msgstr ""
+
+#: includes/admin-i18n.php:285
+msgid "Placeholder of held-back videos and maps"
+msgstr ""
+
+#: includes/admin-i18n.php:286
+msgid "Shown in place of a YouTube or Vimeo video or a Google map until the visitor accepts Marketing."
+msgstr ""
+
+#. translators: %s is shown as is: it stands for the service name in the title
+#: includes/admin-i18n.php:289
+#, php-format
+msgid "%s is replaced by the service, e.g. YouTube."
+msgstr ""
+
+#: includes/admin-i18n.php:290
+msgid "Button"
+msgstr ""
+
+#: includes/admin-i18n.php:292
+msgid "Cookie table headings"
+msgstr ""
+
+#: includes/admin-i18n.php:293
+msgid "Heading: cookie"
+msgstr ""
+
+#: includes/admin-i18n.php:294
+msgid "Heading: provider"
+msgstr ""
+
+#: includes/admin-i18n.php:295
+msgid "Heading: purpose"
+msgstr ""
+
+#: includes/admin-i18n.php:296
+msgid "Heading: duration"
+msgstr ""
+
+#: includes/admin-i18n.php:297
+msgid "Provider for the site's own cookies"
+msgstr ""
+
+#: includes/admin-i18n.php:300
+msgid "Position and colours of the banner. The font comes from the theme."
+msgstr ""
+
+#: includes/admin-i18n.php:301
+msgid "Position"
+msgstr ""
+
+#: includes/admin-i18n.php:302
+msgid "Bottom left"
+msgstr ""
+
+#: includes/admin-i18n.php:303
+msgid "Bottom right"
+msgstr ""
+
+#: includes/admin-i18n.php:304
+msgid "Bottom centre"
+msgstr ""
+
+#: includes/admin-i18n.php:305
+msgid "On phones it always takes the full width at the bottom."
+msgstr ""
+
+#: includes/admin-i18n.php:306
+msgid "“Accept all” fill"
+msgstr ""
+
+#: includes/admin-i18n.php:307
+msgid "“Accept all” text"
+msgstr ""
+
+#: includes/admin-i18n.php:308
+msgid "Border of the other buttons"
+msgstr ""
+
+#: includes/admin-i18n.php:309
+msgid "Banner background"
+msgstr ""
+
+#: includes/admin-i18n.php:310
+msgid "Banner text"
+msgstr ""
+
+#: includes/admin-i18n.php:311
+msgid "Original colours"
+msgstr ""
+
+#: includes/admin-i18n.php:312
+msgid "Same fill on Accept and Reject"
+msgstr ""
+
+#: includes/admin-i18n.php:313
+msgid "The Greek data protection authority asks for no design that favours Accept. On by default."
+msgstr ""
+
+#: includes/admin-i18n.php:314
+msgid "On phones, the cookie banner first"
+msgstr ""
+
+#: includes/admin-i18n.php:315
+msgid "SmartBanner and the “Start a project” button wait until the visitor answers."
+msgstr ""
+
+#: includes/admin-i18n.php:318
+msgid "The page where visitors read which cookies the site uses. Its table updates itself."
+msgstr ""
+
+#: includes/admin-i18n.php:319
+msgid "Cookie policy"
+msgstr ""
+
+#: includes/admin-i18n.php:320
+msgid "The pages SmartConsent uses:"
+msgstr ""
+
+#: includes/admin-i18n.php:321
+msgid "None yet."
+msgstr ""
+
+#: includes/admin-i18n.php:322
+msgid "One page per language, with an introduction and the cookie table. They are created as drafts, so you read them before they go live."
+msgstr ""
+
+#. translators: %s: language names
+#: includes/admin-i18n.php:324
+#, php-format
+msgid "Missing: %s."
+msgstr ""
+
+#: includes/admin-i18n.php:325
+msgid "Create the page (every language)"
+msgstr ""
+
+#: includes/admin-i18n.php:326
+msgid "Create the missing ones"
+msgstr ""
+
+#: includes/admin-i18n.php:327
+msgid "Creating…"
+msgstr ""
+
+#: includes/admin-i18n.php:328
+msgid "The pages were created as drafts."
+msgstr ""
+
+#: includes/admin-i18n.php:329
+msgid "A draft is not shown to visitors, and the banner doesn't link to it. Read it and publish it."
+msgstr ""
+
+#. translators: 1: page title, 2: language it should be in, 3: language WPML has for it
+#: includes/admin-i18n.php:331
+#, php-format
+msgid "“%1$s” should be the %2$s page, but WPML has it as %3$s. Open it and set its language in WPML’s Language box, or move it to the bin and create it again."
+msgstr ""
+
+#. translators: 1: page title, 2: language it should be in
+#: includes/admin-i18n.php:333
+#, php-format
+msgid "“%1$s” should be the %2$s page, but WPML has no language for it, so it is hidden from WPML’s lists."
+msgstr ""
+
+#: includes/admin-i18n.php:334
+msgid "Fix in WPML"
+msgstr ""
+
+#: includes/admin-i18n.php:335
+msgid "Gives each page its right language, joins them as translations and creates any that are missing."
+msgstr ""
+
+#: includes/admin-i18n.php:336
+msgid "The pages are now right in WPML."
+msgstr ""
+
+#: includes/admin-i18n.php:337
+msgid "In Pages, WPML lists only the pages of the language chosen at the top of the admin. Choose “All languages” to see both."
+msgstr ""
+
+#: includes/admin-i18n.php:338
+msgid "Published"
+msgstr ""
+
+#: includes/admin-i18n.php:339
+msgid "Draft"
+msgstr ""
+
+#: includes/admin-i18n.php:341
+msgid "View"
+msgstr ""
+
+#: includes/admin-i18n.php:342
+msgid "Use an existing page instead"
+msgstr ""
+
+#: includes/admin-i18n.php:343
+msgid "— none —"
+msgstr ""
+
+#: includes/admin-i18n.php:344
+msgid "Privacy policy"
+msgstr ""
+
+#: includes/admin-i18n.php:345
+msgid "Read from WordPress's Settings → Privacy. SmartInquiry uses the same one."
+msgstr ""
+
+#: includes/admin-i18n.php:346
+msgid "Not set"
+msgstr ""
+
+#: includes/admin-i18n.php:347
+msgid "Privacy settings"
+msgstr ""
+
+#: includes/admin-i18n.php:348
+msgid "Shortcodes"
+msgstr ""
+
+#: includes/admin-i18n.php:349
+msgid "The “Cookies” link for the footer. Opens the preferences again."
+msgstr ""
+
+#: includes/admin-i18n.php:350
+msgid "The same, with your own text."
+msgstr ""
+
+#: includes/admin-i18n.php:351
+msgid "As a menu link, instead of the shortcode."
+msgstr ""
+
+#: includes/admin-i18n.php:352
+msgid "The cookie table. The page SmartConsent creates already has it."
+msgstr ""
+
+#: includes/admin-i18n.php:355
+msgid "Consent rules and how long data is kept."
+msgstr ""
+
+#: includes/admin-i18n.php:356
+msgid "How long a choice lasts"
+msgstr ""
+
+#: includes/admin-i18n.php:357
+msgid "After that, the visitor is asked again."
+msgstr ""
+
+#. translators: %s: number of months
+#: includes/admin-i18n.php:359
+#, php-format
+msgid "%s months"
+msgstr ""
+
+#: includes/admin-i18n.php:360
+msgid "How long the consent log is kept"
+msgstr ""
+
+#: includes/admin-i18n.php:361
+msgid "Older rows are deleted automatically."
+msgstr ""
+
+#: includes/admin-i18n.php:362
+msgid "Respect Global Privacy Control"
+msgstr ""
+
+#: includes/admin-i18n.php:363
+msgid "If the browser sends GPC, it counts as “Reject”. Required in 12 US states."
+msgstr ""
+
+#: includes/admin-i18n.php:364
+msgid "Delete cookies when consent is withdrawn"
+msgstr ""
+
+#: includes/admin-i18n.php:365
+msgid "When someone changes to “Reject”, their _ga and similar cookies are deleted at once."
+msgstr ""
+
+#: includes/admin-i18n.php:366
+msgid "Hold back tags added elsewhere"
+msgstr ""
+
+#: includes/admin-i18n.php:367
+msgid "Google, Meta, Clarity and Hotjar scripts put on the page by the theme or another plugin wait for consent too."
+msgstr ""
+
+#: includes/admin-i18n.php:369
+msgid "Keeps anonymous proof of every choice, without IP addresses."
+msgstr ""
+
+#: includes/admin-i18n.php:370
+msgid "To try the banner without changing anything for visitors, open the site with"
+msgstr ""
+
+#: includes/admin.php:62
+msgid "SmartConsent needs JavaScript."
+msgstr ""
+
+#: includes/admin.php:92
+msgid "draft"
+msgstr ""
+
+#: includes/admin.php:164
+#: includes/admin.php:278
+msgid "You are not allowed to do this."
+msgstr ""
+
+#: includes/admin.php:176
+msgid "Could not save. Please try again."
+msgstr ""

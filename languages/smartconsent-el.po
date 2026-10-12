@@ -1,0 +1,921 @@
+# Greek translation of SmartConsent.
+# Copyright (C) 2026 Smartup
+msgid ""
+msgstr ""
+"Project-Id-Version: SmartConsent 1.0.2\n"
+"Report-Msgid-Bugs-To: https://smartupweb.com\n"
+"Last-Translator: Smartup\n"
+"Language-Team: Smartup\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Domain: smartconsent\n"
+
+msgid "SmartConsent"
+msgstr "SmartConsent"
+
+msgid "Cookie consent banner with Google Consent Mode v2. Third-party scripts wait for the visitor's consent, the cookie policy table fills itself, and every choice is logged anonymously. WPML ready."
+msgstr "Banner συγκατάθεσης για cookies με Google Consent Mode v2. Τα scripts τρίτων περιμένουν τη συγκατάθεση του επισκέπτη, ο πίνακας της πολιτικής cookies γεμίζει μόνος του και κάθε επιλογή καταγράφεται ανώνυμα. Έτοιμο για WPML."
+
+msgid "Smartup"
+msgstr "Smartup"
+
+msgid "https://smartupweb.com"
+msgstr "https://smartupweb.com"
+
+msgid "Screen language"
+msgstr "Γλώσσα οθόνης"
+
+msgid "General"
+msgstr "Γενικά"
+
+msgid "Setup"
+msgstr "Ρύθμιση"
+
+msgid "Needs your attention"
+msgstr "Χρειάζεται ενέργεια"
+
+msgid "Overview"
+msgstr "Επισκόπηση"
+
+msgid "Consent log"
+msgstr "Αρχείο συγκαταθέσεων"
+
+msgid "Services & scripts"
+msgstr "Υπηρεσίες & scripts"
+
+msgid "Cookies"
+msgstr "Cookies"
+
+msgid "Texts"
+msgstr "Κείμενα"
+
+msgid "Appearance"
+msgstr "Εμφάνιση"
+
+msgid "Policy page"
+msgstr "Σελίδα πολιτικής"
+
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+msgid "Save"
+msgstr "Αποθήκευση"
+
+msgid "Saving…"
+msgstr "Αποθήκευση…"
+
+msgid "Settings saved."
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν."
+
+msgid "Settings saved. Page cache cleared: %s."
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν. Καθαρίστηκε το cache: %s."
+
+msgid "Page cache cleared: %s."
+msgstr "Καθαρίστηκε το cache: %s."
+
+msgid "Unsaved changes"
+msgstr "Υπάρχουν αλλαγές που δεν αποθηκεύτηκαν"
+
+msgid "All changes saved"
+msgstr "Όλες οι αλλαγές είναι αποθηκευμένες"
+
+msgid "Save your changes first."
+msgstr "Αποθήκευσε πρώτα τις αλλαγές σου."
+
+msgid "You have unsaved changes. Switch the screen language anyway?"
+msgstr "Έχεις αλλαγές που δεν αποθηκεύτηκαν. Να αλλάξει η γλώσσα της οθόνης;"
+
+msgid "Something went wrong. Please try again."
+msgstr "Κάτι πήγε στραβά. Δοκίμασε ξανά."
+
+msgid "Loading…"
+msgstr "Φόρτωση…"
+
+msgid "Copy"
+msgstr "Αντιγραφή"
+
+msgid "Copied: %s"
+msgstr "Αντιγράφηκε: %s"
+
+msgid "Delete"
+msgstr "Διαγραφή"
+
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+msgid "Done"
+msgstr "Έτοιμο"
+
+msgid "All"
+msgstr "Όλες"
+
+msgid "Previous"
+msgstr "Προηγούμενη"
+
+msgid "Next"
+msgstr "Επόμενη"
+
+msgid "Page %1$s of %2$s"
+msgstr "Σελίδα %1$s από %2$s"
+
+msgid "Preview"
+msgstr "Προεπισκόπηση"
+
+msgid "Category"
+msgstr "Κατηγορία"
+
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+msgid "Necessary"
+msgstr "Απαραίτητα"
+
+msgid "Preferences"
+msgstr "Προτιμήσεις"
+
+msgid "Statistics"
+msgstr "Στατιστικά"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Accept all"
+msgstr "Αποδοχή όλων"
+
+msgid "Reject"
+msgstr "Απόρριψη"
+
+msgid "Custom"
+msgstr "Προσαρμογή"
+
+msgid "Global Privacy Control"
+msgstr "Global Privacy Control"
+
+msgid "How consent is going on the site, and what still needs setting up."
+msgstr "Πώς πάει η συγκατάθεση στο site και τι χρειάζεται ακόμα ρύθμιση."
+
+msgid "Preview on the site"
+msgstr "Προεπισκόπηση στο site"
+
+msgid "Banner on"
+msgstr "Ενεργό banner"
+
+msgid "The banner is on"
+msgstr "Το banner είναι ενεργό"
+
+msgid "The banner is off"
+msgstr "Το banner είναι ανενεργό"
+
+msgid "Visitors who haven't answered see it. Tags load only after consent."
+msgstr "Το βλέπουν όσοι δεν έχουν απαντήσει. Τα tags φορτώνουν μόνο μετά από συγκατάθεση."
+
+msgid "Nobody sees a banner and SmartConsent loads and holds back nothing. Use “Preview on the site” to try it out first."
+msgstr "Κανείς δεν βλέπει banner, και το SmartConsent ούτε φορτώνει ούτε μπλοκάρει τίποτα. Δοκίμασέ το πρώτα με την «Προεπισκόπηση στο site»."
+
+msgid "The banner is on."
+msgstr "Το banner ενεργοποιήθηκε."
+
+msgid "The banner is off."
+msgstr "Το banner απενεργοποιήθηκε."
+
+msgid "Answers, 30 days"
+msgstr "Απαντήσεις, 30 ημέρες"
+
+msgid "Setup check"
+msgstr "Έλεγχος ρύθμισης"
+
+msgid "What SmartConsent sees on the site right now"
+msgstr "Τι βλέπει τώρα το SmartConsent στο site"
+
+msgid "Google tag: %s"
+msgstr "Google tag: %s"
+
+msgid "Loads only after consent (basic). Google Consent Mode v2 is on."
+msgstr "Φορτώνει μόνο μετά από συγκατάθεση (basic). Το Google Consent Mode v2 είναι ενεργό."
+
+msgid "Loads at once and stays without cookies until consent (advanced). Google Consent Mode v2 is on."
+msgstr "Φορτώνει αμέσως και μένει χωρίς cookies μέχρι τη συγκατάθεση (advanced). Το Google Consent Mode v2 είναι ενεργό."
+
+msgid "No Google tag set up"
+msgstr "Δεν έχει οριστεί Google tag"
+
+msgid "Enter your GTM-… or G-… ID and SmartConsent loads Google Analytics after consent."
+msgstr "Βάλε το GTM-… ή G-… ID σου και το SmartConsent φορτώνει το Google Analytics μετά από συγκατάθεση."
+
+msgid "Set it up"
+msgstr "Ρύθμισέ το"
+
+msgid "Checking the home page…"
+msgstr "Έλεγχος της αρχικής σελίδας…"
+
+msgid "Could not check the home page"
+msgstr "Δεν ήταν δυνατός ο έλεγχος της αρχικής σελίδας"
+
+msgid "The server could not load its own home page. The site scan (in Services & scripts) checks from your browser instead."
+msgstr "Ο server δεν μπόρεσε να ανοίξει τη δική του αρχική σελίδα. Η σάρωση του site (στις Υπηρεσίες & scripts) κάνει τον έλεγχο από τον browser σου."
+
+msgid "Check again"
+msgstr "Έλεγχος ξανά"
+
+msgid "Found outside SmartConsent: %s"
+msgstr "Βρέθηκε εκτός SmartConsent: %s"
+
+msgid "It is put on the page by something else (Site Kit, the theme's code box, another plugin). SmartConsent holds it back until consent, but after consent it would count every visit twice. Remove it from there."
+msgstr "Μπαίνει στη σελίδα από κάτι άλλο (Site Kit, πεδίο κώδικα του θέματος, άλλο plugin). Το SmartConsent το μπλοκάρει μέχρι τη συγκατάθεση, αλλά μετά την αποδοχή θα μετράει κάθε επίσκεψη δύο φορές. Αφαίρεσέ το από εκεί."
+
+msgid "It is put on the page by something else and loads without consent, because holding back scripts is switched off in Settings."
+msgstr "Μπαίνει στη σελίδα από κάτι άλλο και φορτώνει χωρίς συγκατάθεση, γιατί το μπλοκάρισμα scripts είναι κλειστό στις Ρυθμίσεις."
+
+msgid "“Cookies” link found"
+msgstr "Βρέθηκε το link «Cookies»"
+
+msgid "Visitors can change their choice from the home page."
+msgstr "Οι επισκέπτες μπορούν να αλλάξουν την επιλογή τους από την αρχική σελίδα."
+
+msgid "No “Cookies” link on the home page"
+msgstr "Δεν υπάρχει link «Cookies» στην αρχική σελίδα"
+
+msgid "Visitors must be able to change their choice. Put the shortcode in the footer, or a menu link to #smartconsent."
+msgstr "Οι επισκέπτες πρέπει να μπορούν να αλλάξουν την επιλογή τους. Βάλε το shortcode στο footer, ή ένα link μενού προς #smartconsent."
+
+msgid "Copy the shortcode"
+msgstr "Αντιγραφή του shortcode"
+
+msgid "Copy #smartconsent"
+msgstr "Αντιγραφή #smartconsent"
+
+msgid "Found on the home page in: %s."
+msgstr "Βρέθηκε στην αρχική σελίδα σε: %s."
+
+msgid "No “Cookies” link on the home page in: %s"
+msgstr "Δεν υπάρχει link «Cookies» στην αρχική σελίδα σε: %s"
+
+msgid "It is there in: %s, so the footer of the other language is probably a separate one."
+msgstr "Υπάρχει σε: %s, άρα το footer της άλλης γλώσσας είναι μάλλον ξεχωριστό."
+
+msgid "The shortcode shows as plain text (%s)"
+msgstr "Το shortcode εμφανίζεται ως σκέτο κείμενο (%s)"
+
+msgid "The field where it was put doesn't run shortcodes, so visitors see “[smartconsent]”. Use a text or shortcode widget, or a link to #smartconsent (e.g. a menu link)."
+msgstr "Το πεδίο όπου μπήκε δεν εκτελεί shortcodes, οπότε οι επισκέπτες βλέπουν «[smartconsent]». Βάλ’ το σε widget κειμένου ή shortcode, ή βάλε link προς #smartconsent (π.χ. link μενού)."
+
+msgid "Could not check for the “Cookies” link"
+msgstr "Δεν ήταν δυνατός ο έλεγχος για το link «Cookies»"
+
+msgid "Could not load the home page in: %s"
+msgstr "Δεν φόρτωσε η αρχική σελίδα σε: %s"
+
+msgid "Visitors don't get the normal page"
+msgstr "Οι επισκέπτες δεν βλέπουν την κανονική σελίδα"
+
+msgid "Seen as a visitor, the home page has no SmartConsent in it. Usually a “Coming soon” or maintenance screen (common on staging sites). Nothing to do on staging; on the live site that screen must be off."
+msgstr "Σαν επισκέπτης, η αρχική σελίδα δεν έχει μέσα το SmartConsent. Συνήθως είναι οθόνη «Coming soon» ή συντήρησης (συχνό σε staging). Στο staging δεν χρειάζεται τίποτα. Στο live site αυτή η οθόνη πρέπει να είναι κλειστή."
+
+msgid "Cookie policy page"
+msgstr "Σελίδα πολιτικής cookies"
+
+msgid "Published, with the cookie table inside. The banner links to it."
+msgstr "Δημοσιευμένη, με τον πίνακα cookies μέσα. Το banner δείχνει link σε αυτήν."
+
+msgid "No published cookie policy page"
+msgstr "Δεν υπάρχει δημοσιευμένη σελίδα πολιτικής cookies"
+
+msgid "The banner links to it. SmartConsent creates it for you in every language."
+msgstr "Το banner δείχνει link σε αυτήν. Το SmartConsent τη φτιάχνει για σένα σε κάθε γλώσσα."
+
+msgid "Create it now"
+msgstr "Φτιάξ' την τώρα"
+
+msgid "Open the page settings"
+msgstr "Άνοιγμα της σελίδας πολιτικής"
+
+msgid "Cookies before consent: %s"
+msgstr "Cookies πριν τη συγκατάθεση: %s"
+
+msgid "The last scan found cookies that are not necessary, written before the visitor answered."
+msgstr "Η τελευταία σάρωση βρήκε cookies που δεν είναι απαραίτητα και γράφονται πριν απαντήσει ο επισκέπτης."
+
+msgid "See the scan"
+msgstr "Δες τη σάρωση"
+
+msgid "Last scan: nothing written before consent"
+msgstr "Τελευταία σάρωση: τίποτα πριν τη συγκατάθεση"
+
+msgid "%1$s, %2$s pages."
+msgstr "%1$s, %2$s σελίδες."
+
+msgid "The site has not been scanned yet"
+msgstr "Το site δεν έχει σαρωθεί ακόμα"
+
+msgid "The scan opens pages of the site and checks what they store before and after consent."
+msgstr "Η σάρωση ανοίγει σελίδες του site και ελέγχει τι αποθηκεύουν πριν και μετά τη συγκατάθεση."
+
+msgid "Scan now"
+msgstr "Σάρωση τώρα"
+
+msgid "A page was too large to check for tags"
+msgstr "Μια σελίδα ήταν πολύ μεγάλη για τον έλεγχο των tags"
+
+msgid "On %1$s a page reached the server's limits while its scripts were being checked, and was sent unchanged (%2$s). If it keeps happening, tell your developer."
+msgstr "Στις %1$s μια σελίδα έφτασε τα όρια του server κατά τον έλεγχο των scripts της και στάλθηκε χωρίς αλλαγές (%2$s). Αν ξανασυμβεί, ενημέρωσε τον developer σου."
+
+msgid "Nothing needs consent right now"
+msgstr "Αυτή τη στιγμή τίποτα δεν χρειάζεται συγκατάθεση"
+
+msgid "The site only uses necessary cookies, so the banner is not shown. It appears by itself as soon as a service that needs consent is added. The “Cookies” link still works."
+msgstr "Το site χρησιμοποιεί μόνο απαραίτητα cookies, οπότε το banner δεν εμφανίζεται. Θα εμφανιστεί μόνο του μόλις προστεθεί υπηρεσία που θέλει συγκατάθεση. Το link «Cookies» δουλεύει κανονικά."
+
+msgid "Browsers that send it count as “Reject”."
+msgstr "Όσοι browsers το στέλνουν λογίζονται «Απόρριψη»."
+
+msgid "Global Privacy Control is ignored"
+msgstr "Το Global Privacy Control αγνοείται"
+
+msgid "Twelve US states require it to be respected. It can be switched on in Settings."
+msgstr "Το απαιτούν 12 πολιτείες των ΗΠΑ. Ενεργοποιείται από τις Ρυθμίσεις."
+
+msgid "Answers by language"
+msgstr "Απαντήσεις ανά γλώσσα"
+
+msgid "Last 30 days"
+msgstr "Τελευταίες 30 ημέρες"
+
+msgid "%s answers"
+msgstr "%s απαντήσεις"
+
+msgid "No answers yet."
+msgstr "Καμία απάντηση ακόμα."
+
+msgid "Ask everyone again"
+msgstr "Ζήτα ξανά από όλους"
+
+msgid "For when you add a service or the policy changes. Every visitor sees the banner again, and the page cache is cleared."
+msgstr "Για όταν προσθέτεις υπηρεσία ή αλλάζει η πολιτική. Όλοι οι επισκέπτες βλέπουν ξανά το banner και καθαρίζει το cache της σελίδας."
+
+msgid "Sure? Ask everyone again"
+msgstr "Σίγουρα; Ζήτα ξανά από όλους"
+
+msgid "Every visitor will see the banner again."
+msgstr "Όλοι οι επισκέπτες θα δουν ξανά το banner."
+
+msgid "Banner revision: v%s"
+msgstr "Έκδοση banner: v%s"
+
+msgid "Anonymous proof of every choice: no IP address and nothing that identifies the visitor. Each row is deleted after %s months."
+msgstr "Ανώνυμη απόδειξη κάθε επιλογής: χωρίς IP και χωρίς τίποτα που ταυτοποιεί τον επισκέπτη. Κάθε εγγραφή σβήνεται μετά από %s μήνες."
+
+msgid "Export CSV"
+msgstr "Εξαγωγή CSV"
+
+msgid "Search by consent ID"
+msgstr "Αναζήτηση με consent ID"
+
+msgid "Date"
+msgstr "Ημερομηνία"
+
+msgid "Consent ID"
+msgstr "Consent ID"
+
+msgid "Language"
+msgstr "Γλώσσα"
+
+msgid "Choice"
+msgstr "Επιλογή"
+
+msgid "Banner revision"
+msgstr "Έκδοση banner"
+
+msgid "No choices logged yet."
+msgstr "Δεν έχει καταγραφεί καμία επιλογή ακόμα."
+
+msgid "A visitor who asks for proof finds their consent ID in the banner's Preferences. Search for it here."
+msgstr "Αν ένας επισκέπτης ζητήσει απόδειξη, βρίσκει το consent ID του στις Προτιμήσεις του banner. Το αναζητάς εδώ."
+
+msgid "Everything that loads from other companies goes through here. Anything outside “Necessary” waits for the visitor's consent."
+msgstr "Ό,τι φορτώνει από τρίτους περνάει από εδώ. Ό,τι δεν είναι στα «Απαραίτητα» περιμένει τη συγκατάθεση του επισκέπτη."
+
+msgid "Add a service"
+msgstr "Προσθήκη υπηρεσίας"
+
+msgid "Service library"
+msgstr "Βιβλιοθήκη υπηρεσιών"
+
+msgid "Pick one: its cookies, their descriptions in every language and the right way to hold it back come with it."
+msgstr "Διάλεξε μία: μπαίνουν αυτόματα τα cookies της, οι περιγραφές τους σε κάθε γλώσσα και ο σωστός τρόπος μπλοκαρίσματος."
+
+msgid "My own script"
+msgstr "Δικό μου script"
+
+msgid "Your own scripts"
+msgstr "Δικά σου scripts"
+
+msgid "Code that should run only after consent for its category."
+msgstr "Κώδικας που τρέχει μόνο μετά από συγκατάθεση για την κατηγορία του."
+
+msgid "Only users allowed to add raw HTML can add or change scripts."
+msgstr "Scripts προσθέτουν ή αλλάζουν μόνο χρήστες που επιτρέπεται να βάζουν HTML."
+
+msgid "Untitled script"
+msgstr "Script χωρίς όνομα"
+
+msgid "Name"
+msgstr "Όνομα"
+
+msgid "Where"
+msgstr "Πού"
+
+msgid "In <head>"
+msgstr "Στο <head>"
+
+msgid "Before </body>"
+msgstr "Πριν το </body>"
+
+msgid "Code"
+msgstr "Κώδικας"
+
+msgid "Paste it as the service gives it, with its <script> tags. Nothing in it runs or loads before consent."
+msgstr "Επικόλλησέ τον όπως τον δίνει η υπηρεσία, με τα <script> tags. Τίποτα από αυτόν δεν τρέχει ούτε φορτώνει πριν τη συγκατάθεση."
+
+msgid "ID"
+msgstr "ID"
+
+msgid "GTM-… for Tag Manager, or G-… for Google Analytics 4 on its own."
+msgstr "GTM-… για το Tag Manager, ή G-… για σκέτο Google Analytics 4."
+
+msgid "The Pixel ID, in Meta Events Manager."
+msgstr "Το Pixel ID, στο Events Manager της Meta."
+
+msgid "The project ID, in Clarity's Settings → Overview."
+msgstr "Το project ID, στο Settings → Overview του Clarity."
+
+msgid "The Site ID, in Hotjar's Sites & Organizations."
+msgstr "Το Site ID, στο Sites & Organizations του Hotjar."
+
+msgid "This doesn't look like a valid ID."
+msgstr "Αυτό δεν μοιάζει με σωστό ID."
+
+msgid "Enter the ID first."
+msgstr "Βάλε πρώτα το ID."
+
+msgid "When it loads"
+msgstr "Πότε φορτώνει"
+
+msgid "Basic (recommended)"
+msgstr "Basic (προτείνεται)"
+
+msgid "Nothing loads before consent. Safe in the EU."
+msgstr "Δεν φορτώνει τίποτα πριν τη συγκατάθεση. Ασφαλές στην ΕΕ."
+
+msgid "Advanced"
+msgstr "Advanced"
+
+msgid "Loads at once and sends pings without cookies. Contested in the EU."
+msgstr "Φορτώνει αμέσως και στέλνει pings χωρίς cookies. Στην ΕΕ αμφισβητείται."
+
+msgid "With advanced, Google also receives data from visitors who rejected cookies, just without cookies. Several EU authorities consider that unlawful without consent."
+msgstr "Με το advanced η Google λαμβάνει δεδομένα και από όσους πάτησαν Απόρριψη, απλώς χωρίς cookies. Αρκετές αρχές της ΕΕ το θεωρούν παράνομο χωρίς συγκατάθεση."
+
+msgid "Found automatically"
+msgstr "Εντοπίστηκε αυτόματα"
+
+msgid "Added by hand"
+msgstr "Προστέθηκε χειροκίνητα"
+
+msgid "No cookies"
+msgstr "Χωρίς cookies"
+
+msgid "Scan the site"
+msgstr "Σάρωση του site"
+
+msgid "Scanning…"
+msgstr "Σάρωση…"
+
+msgid "Scan in progress"
+msgstr "Σάρωση σε εξέλιξη"
+
+msgid "Page %1$s of %2$s · %3$s"
+msgstr "Σελίδα %1$s από %2$s · %3$s"
+
+msgid "first pass: without consent"
+msgstr "πρώτο πέρασμα: χωρίς συγκατάθεση"
+
+msgid "second pass: with “Accept all”"
+msgstr "δεύτερο πέρασμα: με «Αποδοχή όλων»"
+
+msgid "Keep this screen open until it finishes."
+msgstr "Άφησε αυτή την οθόνη ανοιχτή μέχρι να τελειώσει."
+
+msgid "The scan has finished."
+msgstr "Η σάρωση τελείωσε."
+
+msgid "Scan result"
+msgstr "Αποτέλεσμα σάρωσης"
+
+msgid "%1$s pages · two passes: without consent and with “Accept all” · %2$s"
+msgstr "%1$s σελίδες · 2 περάσματα: χωρίς συγκατάθεση και με «Αποδοχή όλων» · %2$s"
+
+msgid "Scan again"
+msgstr "Σάρωση ξανά"
+
+msgid "Written without consent: %s"
+msgstr "Γράφεται χωρίς συγκατάθεση: %s"
+
+msgid "These are not necessary and appear before the visitor answers. Something on the site sets them without going through SmartConsent."
+msgstr "Δεν είναι απαραίτητα και εμφανίζονται πριν απαντήσει ο επισκέπτης. Κάτι στο site τα γράφει χωρίς να περνάει από το SmartConsent."
+
+msgid "Without consent, nothing but necessary cookies is written"
+msgstr "Χωρίς συγκατάθεση δεν γράφεται κανένα cookie εκτός από τα απαραίτητα"
+
+msgid "Only %s, which are in the table."
+msgstr "Μόνο τα %s, που είναι στον πίνακα."
+
+msgid "No cookies at all."
+msgstr "Κανένα cookie."
+
+msgid "After consent, the expected cookies are written"
+msgstr "Με την αποδοχή γράφονται τα αναμενόμενα cookies"
+
+msgid "%s loads from outside SmartConsent"
+msgstr "Το %s φορτώνει εκτός SmartConsent"
+
+msgid "SmartConsent holds it back until consent, but after consent it would count every visit twice. Remove it from where it was added."
+msgstr "Το SmartConsent το μπλοκάρει μέχρι τη συγκατάθεση, αλλά μετά την αποδοχή θα μετράει κάθε επίσκεψη δύο φορές. Αφαίρεσέ το από εκεί που το έβαλες."
+
+msgid "Contact with %s before consent"
+msgstr "Επαφή με %s πριν τη συγκατάθεση"
+
+msgid "Google Fonts of the theme. No cookie, but the visitor's IP address goes to Google. Better to load the fonts from the site itself."
+msgstr "Τα Google Fonts του θέματος. Δεν γράφουν cookie, αλλά στέλνουν την IP του επισκέπτη στην Google. Καλύτερα να φορτώνουν τοπικά από το site."
+
+msgid "A WordPress service (emoji, avatars). No tracking cookies."
+msgstr "Υπηρεσία του WordPress (emoji, avatars). Χωρίς cookies παρακολούθησης."
+
+msgid "Cloudflare's security check (Turnstile). Necessary."
+msgstr "Ο έλεγχος ασφαλείας της Cloudflare (Turnstile). Απαραίτητος."
+
+msgid "Another site contacted before consent. Check whether it stores or collects anything."
+msgstr "Άλλο site που καλείται πριν τη συγκατάθεση. Έλεγξε αν αποθηκεύει ή συλλέγει κάτι."
+
+msgid "Unknown cookie: %s"
+msgstr "Άγνωστο cookie: %s"
+
+msgid "It is written by the site but is not in the cookie table. Choose its category and add it with a description."
+msgstr "Το γράφει το site, αλλά δεν είναι στον πίνακα cookies. Διάλεξε κατηγορία και πρόσθεσέ το με μια περιγραφή."
+
+msgid "Add to the table"
+msgstr "Πρόσθεσε στον πίνακα"
+
+msgid "Added. Write what it does, then save."
+msgstr "Προστέθηκε. Γράψε τι κάνει και αποθήκευσε."
+
+msgid "%s pages could not be read"
+msgstr "%s σελίδες δεν διαβάστηκαν"
+
+msgid "They took too long or refused to open in a frame. The rest of the result stands."
+msgstr "Άργησαν πολύ ή δεν άνοιξαν μέσα σε frame. Το υπόλοιπο αποτέλεσμα ισχύει."
+
+msgid "The table visitors see on the cookie policy page. It fills itself from the services; change something only if you want to."
+msgstr "Ο πίνακας που βλέπει ο επισκέπτης στη σελίδα πολιτικής cookies. Γεμίζει μόνος του από τις υπηρεσίες. Αλλάζεις κάτι μόνο αν θέλεις."
+
+msgid "Add a cookie"
+msgstr "Προσθήκη cookie"
+
+msgid "%s cookies"
+msgstr "%s cookies"
+
+msgid "Save to see the effect of other changes (services switched on or off) on the table."
+msgstr "Αποθήκευσε για να δεις στον πίνακα και τις άλλες αλλαγές (υπηρεσίες που άνοιξαν ή έκλεισαν)."
+
+msgid "Cookie"
+msgstr "Cookie"
+
+msgid "Provider"
+msgstr "Πάροχος"
+
+msgid "Purpose"
+msgstr "Σκοπός"
+
+msgid "Duration"
+msgstr "Διάρκεια"
+
+msgid "Source"
+msgstr "Πηγή"
+
+msgid "edited"
+msgstr "αλλαγμένο"
+
+msgid "no text in this language"
+msgstr "χωρίς κείμενο σε αυτή τη γλώσσα"
+
+msgid "This site"
+msgstr "Αυτό το site"
+
+msgid "Cookie name"
+msgstr "Όνομα cookie"
+
+msgid "Letters, digits, _ - . and * for “anything” (e.g. _hj*)."
+msgstr "Γράμματα, ψηφία, _ - . και * για «οτιδήποτε» (π.χ. _hj*)."
+
+msgid "Purpose (%s)"
+msgstr "Σκοπός (%s)"
+
+msgid "Duration (%s)"
+msgstr "Διάρκεια (%s)"
+
+msgid "Back to the original text"
+msgstr "Επαναφορά του αρχικού κειμένου"
+
+msgid "The original text returns when you save."
+msgstr "Το αρχικό κείμενο επιστρέφει με την αποθήκευση."
+
+msgid "Saved with the Save button."
+msgstr "Αποθηκεύεται με το κουμπί Αποθήκευση."
+
+msgid "Visitors see this table on the cookie policy page, through"
+msgstr "Ο επισκέπτης βλέπει αυτόν τον πίνακα στη σελίδα πολιτικής cookies, μέσω του"
+
+msgid "Everything the visitor reads, per language. The language comes from WPML."
+msgstr "Όλα όσα διαβάζει ο επισκέπτης, ανά γλώσσα. Η γλώσσα ανιχνεύεται από το WPML."
+
+msgid "Title"
+msgstr "Τίτλος"
+
+msgid "Text"
+msgstr "Κείμενο"
+
+msgid "{purposes} becomes the purposes in use on the site, e.g. “for traffic statistics”. The link to the cookie policy is added at the end by itself."
+msgstr "Το {purposes} γίνεται οι σκοποί που υπάρχουν στο site, π.χ. «για στατιστικά επισκεψιμότητας». Στο τέλος μπαίνει αυτόματα το link προς την πολιτική cookies."
+
+msgid "“Preferences” button"
+msgstr "Κουμπί «Προτιμήσεις»"
+
+msgid "“Save choices” button"
+msgstr "Κουμπί «Αποθήκευση επιλογών»"
+
+msgid "“Reject” button"
+msgstr "Κουμπί «Απόρριψη»"
+
+msgid "“Accept” button"
+msgstr "Κουμπί «Αποδοχή»"
+
+msgid "Cookie policy link"
+msgstr "Κείμενο link πολιτικής"
+
+msgid "Footer link"
+msgstr "Κείμενο link στο footer"
+
+msgid "What [smartconsent] shows."
+msgstr "Αυτό δείχνει το [smartconsent]."
+
+msgid "“Always active” label"
+msgstr "Ένδειξη «Πάντα ενεργά»"
+
+msgid "“Consent ID” label"
+msgstr "Ένδειξη «Κωδικός συγκατάθεσης»"
+
+msgid "Purposes in the text"
+msgstr "Σκοποί μέσα στο κείμενο"
+
+msgid "What {purposes} in the text becomes. Only the purposes actually in use on the site are shown."
+msgstr "Σε τι μετατρέπεται το {purposes} του κειμένου. Εμφανίζονται μόνο οι σκοποί που υπάρχουν στο site."
+
+msgid "The word “and” between the last two"
+msgstr "Η λέξη «και» ανάμεσα στους δύο τελευταίους"
+
+msgid "%s: name"
+msgstr "%s: όνομα"
+
+msgid "%s: description"
+msgstr "%s: περιγραφή"
+
+msgid "Not shown now: nothing uses this category."
+msgstr "Δεν εμφανίζεται τώρα: καμία υπηρεσία δεν χρησιμοποιεί αυτή την κατηγορία."
+
+msgid "Placeholder of held-back videos and maps"
+msgstr "Placeholder για video και χάρτες που περιμένουν συγκατάθεση"
+
+msgid "Shown in place of a YouTube or Vimeo video or a Google map until the visitor accepts Marketing."
+msgstr "Εμφανίζεται στη θέση ενός video YouTube ή Vimeo ή ενός χάρτη Google, μέχρι ο επισκέπτης να αποδεχτεί τα Marketing."
+
+msgid "%s is replaced by the service, e.g. YouTube."
+msgstr "Το %s αντικαθίσταται από την υπηρεσία, π.χ. YouTube."
+
+msgid "Button"
+msgstr "Κουμπί"
+
+msgid "Cookie table headings"
+msgstr "Επικεφαλίδες του πίνακα cookies"
+
+msgid "Heading: cookie"
+msgstr "Επικεφαλίδα: cookie"
+
+msgid "Heading: provider"
+msgstr "Επικεφαλίδα: πάροχος"
+
+msgid "Heading: purpose"
+msgstr "Επικεφαλίδα: σκοπός"
+
+msgid "Heading: duration"
+msgstr "Επικεφαλίδα: διάρκεια"
+
+msgid "Provider for the site's own cookies"
+msgstr "Πάροχος για τα cookies του ίδιου του site"
+
+msgid "Position and colours of the banner. The font comes from the theme."
+msgstr "Θέση και χρώματα του banner. Τη γραμματοσειρά την παίρνει από το θέμα."
+
+msgid "Position"
+msgstr "Θέση"
+
+msgid "Bottom left"
+msgstr "Κάτω αριστερά"
+
+msgid "Bottom right"
+msgstr "Κάτω δεξιά"
+
+msgid "Bottom centre"
+msgstr "Κάτω στο κέντρο"
+
+msgid "On phones it always takes the full width at the bottom."
+msgstr "Στο κινητό πιάνει πάντα όλο το πλάτος, στο κάτω μέρος."
+
+msgid "“Accept all” fill"
+msgstr "Γέμισμα «Αποδοχή όλων»"
+
+msgid "“Accept all” text"
+msgstr "Κείμενο «Αποδοχή όλων»"
+
+msgid "Border of the other buttons"
+msgstr "Border των άλλων κουμπιών"
+
+msgid "Banner background"
+msgstr "Φόντο banner"
+
+msgid "Banner text"
+msgstr "Κείμενο banner"
+
+msgid "Original colours"
+msgstr "Αρχικά χρώματα"
+
+msgid "Same fill on Accept and Reject"
+msgstr "Ίδιο γέμισμα σε Αποδοχή και Απόρριψη"
+
+msgid "The Greek data protection authority asks for no design that favours Accept. On by default."
+msgstr "Η Αρχή Προστασίας Δεδομένων ζητά να μην ευνοείται σχεδιαστικά η Αποδοχή. Ανοιχτό από προεπιλογή."
+
+msgid "On phones, the cookie banner first"
+msgstr "Στο κινητό, πρώτα το cookie banner"
+
+msgid "SmartBanner and the “Start a project” button wait until the visitor answers."
+msgstr "Το SmartBanner και το κουμπί «Start a project» περιμένουν μέχρι να απαντήσει ο επισκέπτης."
+
+msgid "The page where visitors read which cookies the site uses. Its table updates itself."
+msgstr "Η σελίδα όπου ο επισκέπτης διαβάζει τι cookies χρησιμοποιεί το site. Ο πίνακάς της ενημερώνεται μόνος του."
+
+msgid "Cookie policy"
+msgstr "Πολιτική cookies"
+
+msgid "The pages SmartConsent uses:"
+msgstr "Οι σελίδες που χρησιμοποιεί το SmartConsent:"
+
+msgid "None yet."
+msgstr "Δεν υπάρχει ακόμα."
+
+msgid "One page per language, with an introduction and the cookie table. They are created as drafts, so you read them before they go live."
+msgstr "Μία σελίδα ανά γλώσσα, με εισαγωγικό κείμενο και τον πίνακα cookies. Φτιάχνονται ως πρόχειρα, ώστε να τις διαβάσεις πριν τη δημοσίευση."
+
+msgid "Missing: %s."
+msgstr "Λείπουν: %s."
+
+msgid "Create the page (every language)"
+msgstr "Δημιουργία σελίδας (όλες οι γλώσσες)"
+
+msgid "Create the missing ones"
+msgstr "Δημιουργία όσων λείπουν"
+
+msgid "Creating…"
+msgstr "Δημιουργία…"
+
+msgid "The pages were created as drafts."
+msgstr "Οι σελίδες δημιουργήθηκαν ως πρόχειρα."
+
+msgid "A draft is not shown to visitors, and the banner doesn't link to it. Read it and publish it."
+msgstr "Το πρόχειρο δεν φαίνεται στους επισκέπτες και το banner δεν δείχνει link σε αυτό. Διάβασέ το και δημοσίευσέ το."
+
+msgid "“%1$s” should be the %2$s page, but WPML has it as %3$s. Open it and set its language in WPML’s Language box, or move it to the bin and create it again."
+msgstr "Η «%1$s» θα έπρεπε να είναι η σελίδα στα %2$s, αλλά στο WPML είναι καταχωρημένη στα %3$s. Άνοιξέ τη και διόρθωσε τη γλώσσα στο κουτί Language του WPML, ή στείλε τη στον κάδο και δημιούργησέ τη ξανά."
+
+msgid "“%1$s” should be the %2$s page, but WPML has no language for it, so it is hidden from WPML’s lists."
+msgstr "Η «%1$s» θα έπρεπε να είναι η σελίδα στα %2$s, αλλά στο WPML δεν έχει γλώσσα, γι’ αυτό δεν εμφανίζεται στις λίστες του."
+
+msgid "Fix in WPML"
+msgstr "Διόρθωση στο WPML"
+
+msgid "Gives each page its right language, joins them as translations and creates any that are missing."
+msgstr "Δίνει σε κάθε σελίδα τη σωστή γλώσσα, τις συνδέει ως μεταφράσεις και φτιάχνει όσες λείπουν."
+
+msgid "The pages are now right in WPML."
+msgstr "Οι σελίδες είναι πλέον σωστές στο WPML."
+
+msgid "In Pages, WPML lists only the pages of the language chosen at the top of the admin. Choose “All languages” to see both."
+msgstr "Στις Σελίδες, το WPML δείχνει μόνο τις σελίδες της γλώσσας που είναι επιλεγμένη πάνω στο admin. Διάλεξε «All languages» για να δεις και τις δύο."
+
+msgid "Published"
+msgstr "Δημοσιευμένη"
+
+msgid "Draft"
+msgstr "Πρόχειρο"
+
+msgid "View"
+msgstr "Προβολή"
+
+msgid "Use an existing page instead"
+msgstr "Χρήση υπάρχουσας σελίδας"
+
+msgid "— none —"
+msgstr "— καμία —"
+
+msgid "Privacy policy"
+msgstr "Πολιτική απορρήτου"
+
+msgid "Read from WordPress's Settings → Privacy. SmartInquiry uses the same one."
+msgstr "Τη διαβάζει από τις Ρυθμίσεις → Απόρρητο του WordPress. Την ίδια χρησιμοποιεί και το SmartInquiry."
+
+msgid "Not set"
+msgstr "Δεν έχει οριστεί"
+
+msgid "Privacy settings"
+msgstr "Ρυθμίσεις απορρήτου"
+
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+msgid "The “Cookies” link for the footer. Opens the preferences again."
+msgstr "Το link «Cookies» για το footer. Ανοίγει ξανά τις προτιμήσεις."
+
+msgid "The same, with your own text."
+msgstr "Το ίδιο, με δικό σου κείμενο."
+
+msgid "As a menu link, instead of the shortcode."
+msgstr "Ως link σε μενού, αντί για το shortcode."
+
+msgid "The cookie table. The page SmartConsent creates already has it."
+msgstr "Ο πίνακας cookies. Η σελίδα που φτιάχνει το SmartConsent τον έχει ήδη."
+
+msgid "Consent rules and how long data is kept."
+msgstr "Κανόνες συγκατάθεσης και διατήρησης δεδομένων."
+
+msgid "How long a choice lasts"
+msgstr "Διάρκεια συγκατάθεσης"
+
+msgid "After that, the visitor is asked again."
+msgstr "Μετά από αυτό το διάστημα ο επισκέπτης ερωτάται ξανά."
+
+msgid "%s months"
+msgstr "%s μήνες"
+
+msgid "How long the consent log is kept"
+msgstr "Διατήρηση αρχείου συγκαταθέσεων"
+
+msgid "Older rows are deleted automatically."
+msgstr "Οι παλαιότερες εγγραφές σβήνονται αυτόματα."
+
+msgid "Respect Global Privacy Control"
+msgstr "Σεβασμός του Global Privacy Control"
+
+msgid "If the browser sends GPC, it counts as “Reject”. Required in 12 US states."
+msgstr "Αν ο browser στέλνει GPC, λογίζεται «Απόρριψη». Απαιτείται σε 12 πολιτείες των ΗΠΑ."
+
+msgid "Delete cookies when consent is withdrawn"
+msgstr "Σβήσιμο cookies στην ανάκληση"
+
+msgid "When someone changes to “Reject”, their _ga and similar cookies are deleted at once."
+msgstr "Όταν κάποιος αλλάξει σε «Απόρριψη», σβήνονται αμέσως τα _ga και τα παρόμοια cookies."
+
+msgid "Hold back tags added elsewhere"
+msgstr "Μπλοκάρισμα tags που μπήκαν από αλλού"
+
+msgid "Google, Meta, Clarity and Hotjar scripts put on the page by the theme or another plugin wait for consent too."
+msgstr "Και τα scripts των Google, Meta, Clarity και Hotjar που βάζει το θέμα ή άλλο plugin περιμένουν τη συγκατάθεση."
+
+msgid "Keeps anonymous proof of every choice, without IP addresses."
+msgstr "Κρατά ανώνυμη απόδειξη κάθε επιλογής, χωρίς διευθύνσεις IP."
+
+msgid "To try the banner without changing anything for visitors, open the site with"
+msgstr "Για δοκιμή χωρίς να αλλάξει κάτι για τους επισκέπτες, άνοιξε το site με"
+
+msgid "SmartConsent needs JavaScript."
+msgstr "Το SmartConsent χρειάζεται JavaScript."
+
+msgid "draft"
+msgstr "πρόχειρο"
+
+msgid "You are not allowed to do this."
+msgstr "Δεν επιτρέπεται να το κάνεις αυτό."
+
+msgid "Could not save. Please try again."
+msgstr "Η αποθήκευση απέτυχε. Δοκίμασε ξανά."
+

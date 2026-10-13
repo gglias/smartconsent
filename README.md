@@ -5,7 +5,7 @@
 A cookie consent banner for WordPress with Google Consent Mode v2. Third-party scripts wait for the visitor's consent, the cookie policy table fills itself, and every choice is logged anonymously. WPML ready.
 
 > [!NOTE]
-> **Built for the Smartup website.** This plugin was made for Smartup's own website ([smartupweb.com](https://smartupweb.com)). Some settings may show the Smartup name by default, and in a few places it may not be changeable from the admin.
+> **Some defaults are built in.** A few settings come with default names and texts, and in some places they may not be changeable from the admin.
 >
 > **Need a white-label version?** Send me a message or email me at **[gglias.pro@gmail.com](mailto:gglias.pro@gmail.com)** and tell me what you need.
 

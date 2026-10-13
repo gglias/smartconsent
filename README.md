@@ -7,7 +7,7 @@ A cookie consent banner for WordPress with Google Consent Mode v2. Third-party s
 > [!NOTE]
 > **Built for the Smartup website.** This plugin was made for Smartup's own website ([smartupweb.com](https://smartupweb.com)). Some settings may show the Smartup name by default, and in a few places it may not be changeable from the admin.
 >
-> **Need a white-label version?** Send me a message or email me at **[gregolia@gmail.com](mailto:gregolia@gmail.com)** and tell me what you need.
+> **Need a white-label version?** Send me a message or email me at **[gglias.pro@gmail.com](mailto:gglias.pro@gmail.com)** and tell me what you need.
 
 > [!WARNING]
 > This plugin helps with cookie consent. It is not legal advice. Check your own setup against the rules that apply to your site.
